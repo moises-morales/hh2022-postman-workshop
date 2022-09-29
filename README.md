@@ -7,5 +7,6 @@ Giphy Token API
 
 
 URL
+
 https://6se9qmnomk.execute-api.us-east-1.amazonaws.com/staging/users/generate-branding-name
 
